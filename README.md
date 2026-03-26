@@ -11,7 +11,7 @@ An AI tool recommendation developed for Northern Beaches Hospital through struct
 - Delivered proposal aligned with hospital operational and clinical workflows
 
 ## Repository Contents
-- 📄 `report.pdf` - Full project report
+- 📄 `report.pdf`: Full project report
 
 ## Tools & Technologies
 `Clinical Research` `Stakeholder Engagement` `AI in Healthcare`
